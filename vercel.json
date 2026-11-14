@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/iclock/cdata", "destination": "/api/cdata" },
-    { "source": "/iclock/getrequest", "destination": "/api/getrequest" }
-  ]
-}
