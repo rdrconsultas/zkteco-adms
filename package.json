@@ -1,0 +1,6 @@
+{
+  "name": "zkteco-adms",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0"
+  }
+}
